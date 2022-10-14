@@ -1,4 +1,4 @@
-package com.slayerHelper.;
+package com.slayerHelper;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

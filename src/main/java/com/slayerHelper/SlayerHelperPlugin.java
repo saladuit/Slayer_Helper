@@ -1,4 +1,4 @@
-package com.slayerHelper.;
+package com.slayerHelper;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
